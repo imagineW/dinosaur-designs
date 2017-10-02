@@ -17,11 +17,11 @@ p {
   font-style: italic;
   text-align: center;
 }
+a,
+  a:link {
+    color:  #793284;
+    }
 
-a:link {
-  color: #793284;
-}
-
-a: hover {
-  color: #b42885;
-  }
+  a: hover {
+    color: #b42885;
+    }
