@@ -7,21 +7,33 @@ img {
   width: 100%;
 }
 
-h1,h2 {
+h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: "Patua One", cursive;
 }
 
-p {
-  font-size: 1rem;
+figcaption {
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
-a,
-  a:link {
-    color:  #793284;
-    }
 
-  a:hover {
-    color: #b42885;
-    }
+.bigfig {
+  font-size: 1rem;
+}
+
+a:link {
+  color: #793284;
+}
+
+a:hover {
+  color: #b42885;
+}
+
+h1 {
+  font-family: "Patua One", cursive;
+  font-size: 1rem;
+  text-decoration: none;
+  list-style-type: none;
+}
