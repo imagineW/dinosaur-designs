@@ -3,11 +3,11 @@ html {
   font-family: Georgia, serif;
 }
 
-img{
+img {
   width: 100%;
 }
 
-h1,h2{
+h1,h2 {
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -22,6 +22,6 @@ a,
     color:  #793284;
     }
 
-  a: hover {
+  a:hover {
     color: #b42885;
     }
