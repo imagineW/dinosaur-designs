@@ -2,3 +2,12 @@ html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
 }
+
+img{
+  width: 100%;
+}
+
+h1,h2{
+  color: green;
+  text-transform: uppercase;
+}
