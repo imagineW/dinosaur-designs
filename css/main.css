@@ -1,6 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  line-height: 1.5rem;
 }
 
 img {
@@ -9,7 +10,6 @@ img {
 
 h1, h2 {
   color: #5d8432;
-  text-transform: uppercase;
   font-family: "Patua One", cursive;
 }
 
@@ -20,9 +20,10 @@ figcaption {
 }
 
 .bigfig {
-  font-size: 1rem;
+  font-size: 1.01rem;
 }
 
+a,
 a:link {
   color: #793284;
 }
@@ -31,9 +32,10 @@ a:hover {
   color: #b42885;
 }
 
-h1 {
-  font-family: "Patua One", cursive;
-  font-size: 1rem;
+li {
+  font-weight: bold;
+  font-size: 1.125rem;
   text-decoration: none;
   list-style-type: none;
+  font-family: "Patua One", cursive;
 }
