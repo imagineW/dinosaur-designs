@@ -1,7 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 img {
@@ -20,21 +20,21 @@ figcaption {
 }
 
 .bigfig {
-  font-size: 1.01rem;
+  font-size: 1.025rem;
 }
 
 a,
 a:link {
   color: #793284;
+  font size: 1.125rem;
 }
 
 a:hover {
   color: #b42885;
 }
 
-li {
+ol{
   font-weight: bold;
-  font-size: 1.025rem;
   text-decoration: none;
   list-style-type: none;
   font-family: "Patua One", cursive;
